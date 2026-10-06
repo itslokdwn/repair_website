@@ -6,11 +6,11 @@
     --color-primary: #2563eb;
     --color-primary-dark: #1d4ed8;
 
-    --color-background: #f8fafc;
-    --color-surface: #ffffff;
+    --color-background: #f0f0f0ef;
+    --color-surface: #fffffff6;
 
     --color-text: #0f172a;
-    --color-text-muted: #64748b;
+    --color-text-muted: #475569;
 
     --color-border: #e2e8f0;
 
@@ -318,7 +318,7 @@ a {
     color:
         var(--color-text-muted);
 
-    font-size: 1.05rem;
+    font-size: 1.1rem;
 }
 
 
@@ -408,7 +408,7 @@ a {
     color:
         var(--color-text-muted);
 
-    font-size: 0.95rem;
+    font-size: 1rem;
 }
 
 
