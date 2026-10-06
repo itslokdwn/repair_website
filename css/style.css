@@ -1334,4 +1334,19 @@ footer {
         opacity: 1;
         transform: translateY(0);
     }
+
+}
+    .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-right: auto;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.logo img {
+    width: 34px;
+    height: 34px;
+    object-fit: contain;
 }
